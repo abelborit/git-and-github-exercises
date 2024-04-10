@@ -2,3 +2,4 @@
 
 - Cambios subidos desde GitHub
 - Cambios subidos desde branch develop
+- Cambios desde remoto
